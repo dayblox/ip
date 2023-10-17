@@ -1,8 +1,11 @@
 {
-  "name": "bun-ts",
-  "author": "dayblox",
-  "description": "Bun + TypeScript starter",
-  "devDependencies": {
-    "bun-types": "latest"
-  }
+	"name": "ip",
+	"author": "dayblox",
+	"description": "IP getter",
+	"scripts": {
+		"start": "bun src/index.ts"
+	},
+	"devDependencies": {
+		"bun-types": "latest"
+	}
 }

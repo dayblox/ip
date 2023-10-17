@@ -59,5 +59,5 @@
 - **Production** mode
 
   ```sh
-  bun src/index.ts
+  bun start
   ```
